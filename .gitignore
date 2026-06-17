@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+morphshell/model.joblib
+morphshell/reports/*.json
+!morphshell/reports/.gitkeep
