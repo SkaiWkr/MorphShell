@@ -1,5 +1,0 @@
-unicorn
-capstone
-scikit-learn
-numpy
-joblib
